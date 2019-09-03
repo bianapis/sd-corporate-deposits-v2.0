@@ -1,0 +1,16 @@
+{
+  "serviceFeesInitiateActionRecord" : {},
+  "serviceFeesInitiateActionReference" : "SFIAR702944",
+  "serviceFeesInstanceStatus" : "serviceFeesInstanceStatus",
+  "corporateDepositsFulfillmentArrangementInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    }
+  },
+  "serviceFeesInstanceReference" : "SFIR700483",
+  "serviceFeesInstanceRecord" : {
+    "feeConfigurationProfile" : {
+      "feeDefinition" : "feeDefinition"
+    }
+  }
+}

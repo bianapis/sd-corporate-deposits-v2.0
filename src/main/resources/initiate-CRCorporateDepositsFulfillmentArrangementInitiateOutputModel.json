@@ -1,0 +1,23 @@
+{
+  "corporateDepositsFulfillmentArrangementInstanceStatus" : "corporateDepositsFulfillmentArrangementInstanceStatus",
+  "corporateDepositsFulfillmentArrangementInitiateActionRecord" : {},
+  "corporateDepositsFulfillmentArrangementInitiateActionReference" : "CDFAIAR739625",
+  "corporateDepositsFulfillmentArrangementInstanceRecord" : {
+    "productInstanceReference" : "763778",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitType" : "positionLimitType",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "accountCurrency" : "USD",
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "corporateDepositAccountNumber" : "corporateDepositAccountNumber"
+  },
+  "corporateDepositsFulfillmentArrangementInstanceReference" : "CDFAIR766853"
+}

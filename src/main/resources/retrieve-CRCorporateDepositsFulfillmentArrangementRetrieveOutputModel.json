@@ -1,0 +1,51 @@
+{
+  "corporateDepositsFulfillmentArrangementInstanceReportRecord" : {
+    "corporateDepositsFulfillmentArrangementInstanceReportType" : "corporateDepositsFulfillmentArrangementInstanceReportType",
+    "corporateDepositsFulfillmentArrangementInstanceReport" : {},
+    "corporateDepositsFulfillmentArrangementInstanceReportData" : "corporateDepositsFulfillmentArrangementInstanceReportData"
+  },
+  "corporateDepositsFulfillmentArrangementInstanceAnalysis" : {
+    "corporateDepositsFulfillmentArrangementInstanceAnalysisReportType" : "corporateDepositsFulfillmentArrangementInstanceAnalysisReportType",
+    "corporateDepositsFulfillmentArrangementInstanceAnalysisReport" : {},
+    "corporateDepositsFulfillmentArrangementInstanceAnalysisData" : "corporateDepositsFulfillmentArrangementInstanceAnalysisData"
+  },
+  "corporateDepositsFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "704873",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "taxReference" : "774640",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "statementsSchedule" : {
+      "statementPeriod" : "statementPeriod",
+      "statementTransactionType" : "statementTransactionType",
+      "statementType" : "statementType",
+      "statementReport" : {}
+    },
+    "accountType" : "accountType",
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitType" : "positionLimitType",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "accountCurrency" : "USD",
+    "bankBranchLocationReference" : "730873",
+    "productInstanceReference" : "707534",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "customerReference" : "726808",
+    "linkedAccounts" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "corporateDepositAccountNumber" : "corporateDepositAccountNumber"
+  },
+  "corporateDepositsFulfillmentArrangementRetrieveActionResponse" : "corporateDepositsFulfillmentArrangementRetrieveActionResponse",
+  "corporateDepositsFulfillmentArrangementRetrieveActionTaskRecord" : {},
+  "corporateDepositsFulfillmentArrangementRetrieveActionTaskReference" : "CDFARATR795037"
+}

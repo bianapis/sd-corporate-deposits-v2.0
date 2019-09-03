@@ -1,0 +1,41 @@
+{
+  "updateResponseRecord" : {},
+  "corporateDepositsFulfillmentArrangementInstanceRecord" : {
+    "associations" : {
+      "associationReference" : "794175",
+      "associationType" : "associationType",
+      "associationObligationEntitlement" : "associationObligationEntitlement"
+    },
+    "taxReference" : "778159",
+    "restrictionOptionSetting" : "restrictionOptionSetting",
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "statementsSchedule" : {
+      "statementPeriod" : "statementPeriod",
+      "statementTransactionType" : "statementTransactionType",
+      "statementType" : "statementType",
+      "statementReport" : {}
+    },
+    "accountType" : "accountType",
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitType" : "positionLimitType",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "accountCurrency" : "USD",
+    "bankBranchLocationReference" : "778923",
+    "productInstanceReference" : "744365",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "entitlementOptionSetting" : "entitlementOptionSetting",
+    "customerReference" : "777411",
+    "linkedAccounts" : {
+      "accountDetails" : "accountDetails",
+      "linkType" : "linkType"
+    },
+    "entitlementOptionDefinition" : "entitlementOptionDefinition",
+    "corporateDepositAccountNumber" : "corporateDepositAccountNumber"
+  },
+  "corporateDepositsFulfillmentArrangementUpdateActionTaskReference" : "CDFAUATR761513",
+  "corporateDepositsFulfillmentArrangementUpdateActionTaskRecord" : {}
+}

@@ -1,0 +1,20 @@
+{
+  "accountLienInitiateActionReference" : "ALIAR765443",
+  "accountLienInitiateActionRecord" : {},
+  "accountLienInstanceStatus" : "accountLienInstanceStatus",
+  "accountLienInstanceRecord" : {
+    "lienDefinition" : "lienDefinition"
+  },
+  "corporateDepositsFulfillmentArrangementInstanceRecord" : {
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "restrictionOptionDefinition" : "restrictionOptionDefinition",
+    "positionLimits" : {
+      "positionLimitSettings" : "positionLimitSettings",
+      "positionLimitValue" : "positionLimitValue"
+    },
+    "entitlementOptionDefinition" : "entitlementOptionDefinition"
+  },
+  "accountLienInstanceReference" : "ALIR789230"
+}
